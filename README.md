@@ -36,4 +36,4 @@ This page is for general items which are language-agnostic. If you're looking fo
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/eskayamadeus/gh-dev-resources/blob/master/CONTRIBUTING.md).
+Contributing guidelines can be found [here](https://github.com/eskayamadeus/gh-dev-resources/blob/master/CONTRIBUTE.md).
