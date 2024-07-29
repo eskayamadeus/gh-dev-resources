@@ -1,7 +1,12 @@
 # Resources for Ghanaian Developers
+
 This is a collection of useful links and projects that can help you keep your costs low or avoid having to pay for services located in other countries.
 
-This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request!
+This list is a work in progress. I'm sure I'm missing many great projects. Feel free to send a pull request! See [Contributing](#contributing).
+
+If you wish to contact me, send me an email at [skelikem@gmail.com](mailto:skelikem@gmail.com) with the subject *Inquiry: GH Dev Resources*.
+
+## About this page
 
 This page is for general items which are language-agnostic. If you're looking for resources for a specific language, check out the other branches.
 
@@ -12,6 +17,8 @@ This page is for general items which are language-agnostic. If you're looking fo
 
 ### SMS Providers
 
+**[`^        back to top        ^`](#contents)**
+
 - [Arkesel](https://www.arkesel.com/) - Message & Engage Your Audience with Bulk SMS, Voice, Email & USSD.
 - [Deywuro/Npontu](https://www.deywuro.com/) - SMS messaging services provided by Npontu Technologies.
 - [Hubtel](https://developers.hubtel.com/) - Leverage Hubtel's versatile platform for powerful SMS capabilities.
@@ -21,4 +28,12 @@ This page is for general items which are language-agnostic. If you're looking fo
 
 ### Web hosting
 
+**[`^        back to top        ^`](#contents)**
+
 - [UltraHost Gh](https://ultrahostghana.com/) - UltraHost Ghana is a leading provider of web hosting, VPS hosting and dedicated servers.
+
+--------------------
+
+## Contributing
+
+Contributing guidelines can be found [here](https://github.com/eskayamadeus/gh-dev-resources/blob/master/CONTRIBUTING.md).
