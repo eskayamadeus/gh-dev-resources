@@ -1,4 +1,4 @@
-# Resources for Ghanaian Developers
+# Laravel Resources for Ghanaian Developers
 
 This is a collection of useful links and projects that can help you keep your costs low or avoid having to pay for services located in other countries.
 
@@ -8,32 +8,27 @@ If you wish to contact me, send me an email at [skelikem@gmail.com](mailto:skeli
 
 ## About this page
 
-This page is for general items which are language-agnostic. If you're looking for resources for a specific language, check out the other branches.
+This page is for Laravel-specific items only. General PHP items should go to the PHP branch.
 
 ## Contents
 
-- [SMS Providers](#sms-providers)
-- [Web hosting](#web-hosting)
+- [Category A](#cat-a)
+- [Category B](#cat-b)
 
-### SMS Providers
-
-**[`^        back to top        ^`](#contents)**
-
-- [Arkesel](https://www.arkesel.com/) - Message & Engage Your Audience with Bulk SMS, Voice, Email & USSD.
-- [Deywuro/Npontu](https://www.deywuro.com/) - SMS messaging services provided by Npontu Technologies.
-- [Hubtel](https://developers.hubtel.com/) - Leverage Hubtel's versatile platform for powerful SMS capabilities.
-- [mNotify](https://mnotify.com/#bms) - mNotify is a leading SMS messaging provider offering simple and reliable Bulk SMS gateways.
-- [SMS Online Ghana](https://www.smsonlinegh.com/) - Affordable Bulk SMS API Gateway for Ghana destinations.
-- [NALO](https://www.nalosolutions.com/bulk-sms-ghana/) - NALO Bulk SMS gives users the ability to send messages on a mass scale with high throughput capacity and low delivery latency.
-
-### Web hosting
+### Category A
 
 **[`^        back to top        ^`](#contents)**
 
-- [UltraHost Gh](https://ultrahostghana.com/) - UltraHost Ghana is a leading provider of web hosting, VPS hosting and dedicated servers.
+- [NAME](https://www.URL.com/) - Description.
+
+### Category B
+
+**[`^        back to top        ^`](#contents)**
+
+- [NAME](https://www.URL.com/) - Description.
 
 --------------------
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/eskayamadeus/gh-dev-resources/blob/master/CONTRIBUTING.md).
+Contributing guidelines can be found [here](https://github.com/eskayamadeus/gh-dev-resources/blob/master/CONTRIBUTE.md).
