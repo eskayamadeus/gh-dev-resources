@@ -23,8 +23,9 @@ This page is for general items which are language-agnostic. If you're looking fo
 - [Deywuro/Npontu](https://www.deywuro.com/) - SMS messaging services provided by Npontu Technologies.
 - [Hubtel](https://developers.hubtel.com/) - Leverage Hubtel's versatile platform for powerful SMS capabilities.
 - [mNotify](https://mnotify.com/#bms) - mNotify is a leading SMS messaging provider offering simple and reliable Bulk SMS gateways.
-- [SMS Online Ghana](https://www.smsonlinegh.com/) - Affordable Bulk SMS API Gateway for Ghana destinations.
 - [NALO](https://www.nalosolutions.com/bulk-sms-ghana/) - NALO Bulk SMS gives users the ability to send messages on a mass scale with high throughput capacity and low delivery latency.
+- [PiloSMS](https://pilosms.com) - Deliver your messages instantly and effectively with our branded SMS service. Includes an AI-powered Message template generator.
+- [SMS Online Ghana](https://www.smsonlinegh.com/) - Affordable Bulk SMS API Gateway for Ghana destinations.
 
 ### Web hosting
 
